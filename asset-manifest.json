@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/editormemepm/static/css/main.e6c13ad2.css",
+    "main.js": "/editormemepm/static/js/main.d6531db0.js",
+    "static/js/787.a6e1305b.chunk.js": "/editormemepm/static/js/787.a6e1305b.chunk.js",
+    "index.html": "/editormemepm/index.html",
+    "main.e6c13ad2.css.map": "/editormemepm/static/css/main.e6c13ad2.css.map",
+    "main.d6531db0.js.map": "/editormemepm/static/js/main.d6531db0.js.map",
+    "787.a6e1305b.chunk.js.map": "/editormemepm/static/js/787.a6e1305b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d6531db0.js"
+  ]
+}
